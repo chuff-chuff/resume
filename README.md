@@ -7,8 +7,8 @@
 |name| ヤマザキ |
 |born|1985|
 |address|新宿区|
-|blog|[ちゃふちゃふログ]([https://chuff-chuff.hatenablog.com/](https://chuff-chuff.hatenablog.com/)|
-|Twitter|[@chuff_chuff09]([https://twitter.com/chuff_chuff09](https://twitter.com/chuff_chuff09)|
+|blog|[ちゃふちゃふログ](https://chuff-chuff.hatenablog.com/)|
+|Twitter|[@chuff_chuff09](https://twitter.com/chuff_chuff09)|
 
 ## 現在の職業
 

@@ -18,7 +18,7 @@ Web系のフリーランス
 
 - HTML/Pug
 - CSS/Sass
-- JavsScript
+- JavaScript
 - jQuery
 - WordPress
 - Photoshop/Illustrator/XD

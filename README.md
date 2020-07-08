@@ -4,7 +4,7 @@
 
 |key|value|
 |---|---|
-|name| ヤマザキ |
+|name| 山崎 |
 |born|1985|
 |address|新宿区|
 |blog|[ちゃふちゃふログ](https://chuff-chuff.hatenablog.com/)|
